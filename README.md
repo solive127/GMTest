@@ -21,7 +21,7 @@ Progress in the first 3 months : <br/>
 <br />
 <br />
 <p align="center">
-First Day that we made 150 parts : <br/>
+First Day that we made over 150 parts : <br/>
   <br />
 <img src="https://i.imgur.com/F1RrZfE.jpeg"/>
 <br />
