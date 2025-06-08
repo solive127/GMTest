@@ -5,7 +5,7 @@
 I worked with the Team to eliminate or minimize the top failures or rejects at the Test Stations to run the line faster and produce more parts per day.
 <br />
 <br />
-<img src="[https://imgur.com/a/hN9Y9Vc)"/>
+
 
 
 
